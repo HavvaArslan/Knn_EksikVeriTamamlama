@@ -1,0 +1,14 @@
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\bin\Debug\Knn_EksikVeriTamamlama.exe.config
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\bin\Debug\Knn_EksikVeriTamamlama.exe
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\bin\Debug\Knn_EksikVeriTamamlama.pdb
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.csproj.ResolveComReference.cache
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.Form1.resources
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.Properties.Resources.resources
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.csproj.GenerateResource.Cache
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.exe
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.pdb
+C:\Users\HP PC\Desktop\Dersler2019\4.Sınıf\Veri Madenciliği\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.csprojResolveAssemblyReference.cache
+C:\Users\HP PC\Desktop\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\bin\Debug\Knn_EksikVeriTamamlama.exe.config
+C:\Users\HP PC\Desktop\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.csproj.ResolveComReference.cache
+C:\Users\HP PC\Desktop\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.exe
+C:\Users\HP PC\Desktop\Knn_EksikVeriTamamlama\Knn_EksikVeriTamamlama\obj\Debug\Knn_EksikVeriTamamlama.pdb
